@@ -3,9 +3,9 @@
 
 
 
-<img width="300" height="450" alt="正脸" src="https://github.com/user-attachments/assets/b82e3e92-b612-4ff0-a30d-056f61601253" />
-<img width="300" height="450" alt="冰糖图片5" src="https://github.com/user-attachments/assets/318ffadf-b442-4085-8db2-dea11c98d2b3" />
-<img width="300" height="450" alt="b85d32268f9d9bee64e038dd4fb8dc20" src="https://github.com/user-attachments/assets/3f19842b-98e8-42d1-af13-68015c784e3b" />
+<img width="200" height="300" alt="正脸" src="https://github.com/user-attachments/assets/b82e3e92-b612-4ff0-a30d-056f61601253" />
+<img width="200" height="300" alt="冰糖图片5" src="https://github.com/user-attachments/assets/318ffadf-b442-4085-8db2-dea11c98d2b3" />
+<img width="200" height="300" alt="b85d32268f9d9bee64e038dd4fb8dc20" src="https://github.com/user-attachments/assets/3f19842b-98e8-42d1-af13-68015c784e3b" />
 
 
 我将它尽可能的还原成原来的样子，最终得到冰糖的base形象，并通过该形象做出了这款codex宠物小冰糖^ ^
