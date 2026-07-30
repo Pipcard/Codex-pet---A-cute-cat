@@ -1,9 +1,10 @@
-# Codex-pet---A-cute-cat
+# 可爱的矮脚小猫！如果你喜欢的话就给我点个小星星吧~
 冰糖是一只短腿米努特，它头上是银灰色，身上还有一些火焰色，三花小母猫，名副其实的猫界刘亦菲！附上冰糖可爱的照片ww
 
 
-<img width="200" height="250" alt="冰糖正脸" src="https://github.com/user-attachments/assets/4660ebf8-c070-4d15-8770-2e038bad41e2" />
-<img width="200" height="250" alt="冰糖图片2" src="https://github.com/user-attachments/assets/500c0b03-f049-4742-82fc-dd70713306d7" />
+<img width="200" height="300" alt="冰糖正脸" src="https://github.com/user-attachments/assets/4660ebf8-c070-4d15-8770-2e038bad41e2" />
+<img width="200" height="300" alt="冰糖图片2" src="https://github.com/user-attachments/assets/500c0b03-f049-4742-82fc-dd70713306d7" />
+<img width="200" height="300" alt="b85d32268f9d9bee64e038dd4fb8dc20" src="https://github.com/user-attachments/assets/3f19842b-98e8-42d1-af13-68015c784e3b" />
 
 
 我将它尽可能的还原成原来的样子，最终得到冰糖的base形象，并通过该形象做出了这款codex宠物小冰糖^ ^
@@ -21,5 +22,4 @@ codex宠物文件夹的地址在C:\Users\YourID\.codex\pets，将下载下来的
 <img width="192" height="208" alt="bingtang-failed" src="https://github.com/user-attachments/assets/6efaa396-255e-4697-98e1-fff8c2823d0b" />
 <img width="192" height="208" alt="bingtang-running" src="https://github.com/user-attachments/assets/b88c3c14-4ca9-49b8-a478-e86c61be861f" />
 <img width="192" height="208" alt="bingtang-play-ball" src="https://github.com/user-attachments/assets/d1591414-3b68-4eed-9ff5-59b527f96084" />
-<img width="192" height="208" alt="bingtang-waving" src="https://github.com/user-attachments/assets/20d43be0-7355-4260-8c6b-bcfe318af688" />
 <img width="192" height="208" alt="bingtang-jumping" src="https://github.com/user-attachments/assets/35d9a7bf-9762-426e-bb87-7024f7ee5321" />
